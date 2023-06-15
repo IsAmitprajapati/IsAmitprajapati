@@ -12,6 +12,8 @@ portfolio : https://isamitprajapati.vercel.app
 
 ![E-Commerce](https://www.youtube.com/embed/t3QWD2UdGJo/0.jpg)
 
+<img src="[relative/path/in/repository/to/image.svg](https://www.youtube.com/embed/t3QWD2UdGJo/0.jpg)" width="128"/>
+
 
 <!---
 IsAmitprajapati/IsAmitprajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
