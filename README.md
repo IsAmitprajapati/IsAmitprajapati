@@ -30,9 +30,6 @@
  </a> 
 </p>
 <br />
-
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
@@ -59,14 +56,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-
 <br/>
 <hr/>
-<br/>
-
-
-
 
 <!---
 IsAmitprajapati/IsAmitprajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
