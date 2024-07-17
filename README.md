@@ -1,14 +1,3 @@
-- 👋 Hi, I’m Amit Prajapati.
-- 👀 I’m interested in Web development
-- 🌱 Full Stack Developer
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ... 
-
-linkedin : https://www.linkedin.com/in/itsamitprajapati/
-twitter : https://twitter.com/IsAmitprajapati
-portfolio : https://amitprajapati.co.in
-Youtube : https://www.youtube.com/@itsamitprajapati
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
