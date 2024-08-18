@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https:/amitprajapati.co.in/" target="blank">
+ <a href="https:/amitprajapati.co.in/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="amit prajapati" />
  </a>
  <a href="https://www.linkedin.com/in/itsamitprajapati" target="_blank">
